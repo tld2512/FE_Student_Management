@@ -1,1 +1,2 @@
-# FE_Student_Management
+# Student Management
+Codegym project module 4 - Front-end
